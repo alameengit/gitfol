@@ -1,0 +1,142 @@
+Last login: Tue Sep 15 00:43:24 on console
+allukah@Als-MacBook-Air ~ % vi
+allukah@Als-MacBook-Air ~ % vi                                       
+allukah@Als-MacBook-Air ~ % vi hello
+allukah@Als-MacBook-Air ~ % vi hello
+allukah@Als-MacBook-Air ~ % vi variable.sh
+allukah@Als-MacBook-Air ~ % cat variable.sh
+name="allu"
+age=20
+echo"Name:$name"
+echo"Age:age"
+
+
+allukah@Als-MacBook-Air ~ % vi variable.sh 
+allukah@Als-MacBook-Air ~ % vi                        
+allukah@Als-MacBook-Air ~ % sh addn.sh     
+substraction of a and b is : 15
+allukah@Als-MacBook-Air ~ % bash vasiable.sh
+bash: vasiable.sh: No such file or directory
+allukah@Als-MacBook-Air ~ % bash variable.sh
+variable.sh: line 3: echoName:allu: command not found
+variable.sh: line 4: echoAge:age: command not found
+allukah@Als-MacBook-Air ~ % vi addn.sh
+allukah@Als-MacBook-Air ~ % nano addn.sh
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  UW PICO 5.09                                                                                                                         File: addn.sh                                                                                                                           
+
+a=25
+b=10
+substraction=$((a-b))
+echo "substraction of a and b is : $substraction"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+^G Get Help                                  ^O WriteOut                                  ^R Read File                                 ^Y Prev Pg                                   ^K Cut Text                                  ^C Cur Pos                                   
+^X Exit                                      ^J Justify                                   ^W Where is                                  ^V Next Pg                                   ^U UnCut Text                                ^T To Spell                                  
